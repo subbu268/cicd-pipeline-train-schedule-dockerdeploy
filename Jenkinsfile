@@ -57,5 +57,3 @@ stage ('DeployToProduction') {
         }
     }
 }
-
-}
